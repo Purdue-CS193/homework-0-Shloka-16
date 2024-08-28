@@ -1,3 +1,9 @@
+# Shloka's First CS193 Homework
+### Here's some of my favorite things about CS193
+- The time for fun questions at the end
+- Activities at the beginning
+- The slow pace
+- The coding demonstrations
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -5,11 +11,6 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-# Hi My Name is Shloka
-- Lists
-1. Another list
-2. hi
-3. whats up
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
